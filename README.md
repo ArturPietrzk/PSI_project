@@ -21,3 +21,7 @@ https://www.semanticscholar.org/paper/Reinforcement-Learning-using-Kohonen-Featu
 
 
 https://scikit-learn.org/stable/modules/clustering.html#
+
+https://www.analyticsvidhya.com/blog/2021/06/complete-guide-on-how-to-use-autoencoders-in-python/
+
+https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_cmeans.html
