@@ -29,3 +29,5 @@ https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_cmeans.html
 https://www.kaggle.com/code/gauravduttakiit/clustering-using-autoencoders-ann/notebook
 
 https://minimatech.org/autoencoder-with-manifold-learning-for-clustering-in-python/
+
+https://github.com/Kaggle/kaggle-api
